@@ -1,16 +1,9 @@
 # provideruser
 
-A new Flutter project.
+provider을 이용한 기본적인 CRUD 예제
 
-## Getting Started
+## 기능
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+provider을 통해 상태관리
+user class 생성
+user의 정보를 수정 
